@@ -7,13 +7,12 @@
 </div>
 
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elonwoom&theme=dark&show_icons=true&locale=en&layout=compact" alt="elonwoom"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=beathonsu&theme=dark&show_icons=true&locale=en" alt="elonwoom"  ></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elonwoom&theme=dark&show_icons=true&locale=en&layout=compact" alt="elonwoom"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=elonwoom&theme=dark&show_icons=true&locale=en" alt="elonwoom"  ></p>
 <hr />
 
 🔗 &nbsp;**Contact with me**
 <p align="left">
 <a href="https://discord.gg/7RAey47Yqt" target"blank_"><img src="https://img.shields.io/badge/elonwoom team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="" target"blank_"><img src=""></a>
 <a href="https://instagram.com/ramazankeslii" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=SeaVortex&color=dc143c"/>
 <hr />
