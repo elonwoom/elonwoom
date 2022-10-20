@@ -8,7 +8,7 @@
 </div>
 
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=beathonsu&theme=dark&show_icons=true&locale=en&layout=compact" alt="elonwoom"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=beathonsu&theme=dark&show_icons=true&locale=en" alt="elonwoom"  ></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elonwoom&theme=dark&show_icons=true&locale=en&layout=compact" alt="elonwoom"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=beathonsu&theme=dark&show_icons=true&locale=en" alt="elonwoom"  ></p>
 <hr />
 
 🔗 &nbsp;**Contact with me**
