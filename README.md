@@ -2,8 +2,7 @@
 
 </p>
 <div align="center">
-   <a href="" target="_blank">
-      <img src="">
+
    </a>
 </div>
 
